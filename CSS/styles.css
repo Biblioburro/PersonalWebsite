@@ -7,6 +7,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+#noBullet{
+	
+	list-style-type: none
+}
+
+
 .header {
   background-color: background-color: #addfad;
   padding: 0px;
@@ -23,6 +29,13 @@ body {
 #navbar {
   overflow: hidden;
   background-color: #333;
+
+}
+/*place center element */
+.centerPage{
+	
+	top: 50%;
+	left:50%
 }
 
 #navbar a {
