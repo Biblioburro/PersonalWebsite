@@ -13,5 +13,9 @@ function myFunction() {
 }
 
 
+function testFunction() {
+document.getElementById("demo").innerHTML = "WHY WONT YOU WORK";
+//window.alert(5+6)
+}
 
 
